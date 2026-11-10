@@ -3,5 +3,7 @@
 #include <math.h>
 #include <ctype.h>
 
-int main(){
+int main()
+{
+  int i;
 }
