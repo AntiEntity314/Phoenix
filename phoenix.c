@@ -6,4 +6,5 @@
 int main()
 {
   int i;
+  float j,k;
 }
