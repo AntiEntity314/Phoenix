@@ -5,7 +5,5 @@
 
 int main()
 {
-  int i;
-  float j,k;
-  
+  int i,j;
 }
