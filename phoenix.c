@@ -23,6 +23,11 @@ void FileRead()
 
 }
 
+void ProgramStatus()
+{
+  
+}
+
 int main()
 {
   int i,j;
